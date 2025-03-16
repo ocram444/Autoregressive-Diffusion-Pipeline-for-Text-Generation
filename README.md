@@ -102,8 +102,8 @@ Our proposed Pipeline framework integrates autoregressive language models (ARLMs
 
 At a high level, Pipeline operates in two stages:
 
-Autoregressive Generation: An ARLM produces an initial text output based on a given prompt. This stage ensures efficiency and fluency in generating coherent sequences.
-Diffusion-based Refinement: A diffusion language model takes the ARLM-generated text and iteratively refines it using a secondary conditioning prompt. This allows for correction, alignment, and enhanced controllability while preserving fluency.
+- Autoregressive Generation: An ARLM produces an initial text output based on a given prompt. This stage ensures efficiency and fluency in generating coherent sequences.
+- Diffusion-based Refinement: A diffusion language model takes the ARLM-generated text and iteratively refines it using a secondary conditioning prompt. This allows for correction, alignment, and enhanced controllability while preserving fluency.
 To achieve seamless integration, we explore latent-space diffusion, where text representations are iteratively denoised rather than modifying raw tokens directly. This enables smooth, targeted refinements while maintaining contextual consistency. Additionally, we introduce alignment-aware conditioning, where the diffusion model receives both the original prompt and a secondary guidance prompt to enforce desired modifications without excessive drift from the ARLM’s intent.
 
 Our approach balances generation speed, coherence, and flexibility, making it well-suited for applications requiring controllable text generation, post-generation alignment, and iterative text editing. We demonstrate the effectiveness of Pipeline across tasks such as content refinement, bias mitigation, and controlled rewriting, hopefully showing significant improvements over standalone ARLMs.
