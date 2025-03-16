@@ -94,7 +94,7 @@
 
 ## Abstract
 
-- Short Abstract of the project
+- Autoregressive language models (ARLMs) have achieved remarkable progress in text generation, but they still often struggle with controllability and alignment. Recent work on diffusion-based models for language modeling has introduced new possibilities for iterative refinement and text editing. In this work, we propose a hybrid framework that integrates ARLMs with diffusion-based models to improve alignment and coherence. By leveraging diffusion’s ability to iteratively refine text, our approach enables post-hoc correction and controlled editing of autoregressively generated content using auxiliary prompts. We present the architecture, training strategies, and experimental results demonstrating improved alignment and adaptability in text generation.
 
 ## Approach
 
