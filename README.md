@@ -5,7 +5,7 @@
 	<div>
 		<h2>
 			<a href="https://link">Autoregressive-Diffusion-Pipeline-for-Text-Generation</a>
-			<br>
+			<br><br>
 			<sup>Dual pipeline for improved text generation alignment</sup>
 		</h2>
 	</div>
