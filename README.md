@@ -77,11 +77,12 @@
 	<br>
 </div>
 <p align="center">
-	<a href="link">Abstract</a>&nbsp;&nbsp;&nbsp;
-	<a href="link">Approach</a>&nbsp;&nbsp;&nbsp;
-	<a href="link">Code</a>&nbsp;&nbsp;&nbsp;
-	<a href="link">Results</a>&nbsp;&nbsp;&nbsp;
-	<a href="link">arxiv</a>&nbsp;&nbsp;&nbsp;
+	<a href="#abstract">Abstract</a>&nbsp;&nbsp;&nbsp;
+	<a href="#approach">Approach</a>&nbsp;&nbsp;&nbsp;
+	<a href="#code">Code</a>&nbsp;&nbsp;&nbsp;
+	<a href="#results">Results</a>&nbsp;&nbsp;&nbsp;
+	<a href="#future-works">Future Works</a>&nbsp;&nbsp;&nbsp;
+	<a href="#credits">Credits</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 <br>
@@ -93,10 +94,12 @@
 <br>
 
 ## Abstract
+<a id="abstract"></a>
 
 Autoregressive language models (ARLMs) have achieved remarkable progress in text generation, but they still often struggle with controllability and alignment. Recent work on diffusion-based models for language modeling has introduced new possibilities for iterative refinement and text editing. In this work, we propose a hybrid framework that integrates ARLMs with diffusion-based models to improve alignment and coherence. By leveraging diffusion’s ability to iteratively refine text, our approach enables post-hoc correction and controlled editing of autoregressively generated content using auxiliary prompts. We present the architecture, training strategies, and experimental results demonstrating improved alignment and adaptability in text generation.
 
 ## Approach
+<a id="approach"></a>
 
 Our proposed Pipeline framework integrates autoregressive language models (ARLMs) with diffusion-based language models (DLMs) to enhance text generation through iterative refinement. This hybrid approach leverages the strengths of both paradigms: ARLMs excel in fluent, high-quality text generation, while DLMs offer a powerful mechanism for controlled editing and correction.
 
@@ -110,15 +113,19 @@ Our approach balances generation speed, coherence, and flexibility, making it we
 
 
 ## Code
+<a id="code"></a>
 
 To Be Published
 
   
 ## Results
+<a id="results"></a>
 
 To Be Determined
 
 
 ## Future works
+<a id="future-works"></a>
 
 ## Credits
+<a id="credits"></a>
