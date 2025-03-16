@@ -27,7 +27,7 @@
 	<p>
 		<p>
 			<sup>
-				<a href="https://link">No link to arXiv paper yet 📖</a>
+				<a href="#">No link to arXiv paper yet 📖</a>
 			</sup>
 		</p>
 		<sup>Special thanks to:</sup>
