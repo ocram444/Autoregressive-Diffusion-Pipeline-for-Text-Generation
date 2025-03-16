@@ -33,49 +33,19 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="link acm ai lab">
-			<div>
-				<img width="200" src="media/ACM_AI_Lab_Logo_Black.png" alt="ACM AI Lab - Logo">
-    			</div>
-			<b>ACM AI Lab</b>
-			<div>
-				<sub>Research Project Conducted as part of the ACM AI Lab</sub><br>
-				<sub>Uncertainty quantification in deep learning</sub>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://link uni wuppertal">
-			<div>
-				<img src="media/BUW_Logo.jpg" width="250" alt="Bergische Universität Wuppertal - Logo">
-			</div>
+		<a href="https://www.uni-wuppertal.de/de/">
 			<b>Bergische Universität Wuppertal</b>
 			<div>
-				<sub>In colaboration with Bergische Universität Wuppertal as part of School of Mathematics and Natural Sciences</sub>
+				<sub>Bergische Universität Wuppertal provided valuable learning resources and guidance on the projects direction.</sub>
 			</div>
 		</a>
-    <br>
-		<br>
-		<br>
-		<a href="link weitere partner">
-			<div>
-				<img src="media/missing.png" width="100" alt="weitere partner - Logo">
-			</div>
-			<b>Other partners</b>
-			<div>
-				<sub>Explaining the colaboration with other partnets </sub>
-			</div>
-		</a>
-		<br>
-		<br>
-	</p>
-	<hr>
-	<br>
-	<br>
-	<br>
-	<br>
+    
+	
 </div>
+<br>
+<br>
+<hr>
+<br>
 <p align="center">
 	<a href="#abstract">Abstract</a>&nbsp;&nbsp;&nbsp;
 	<a href="#approach">Approach</a>&nbsp;&nbsp;&nbsp;
