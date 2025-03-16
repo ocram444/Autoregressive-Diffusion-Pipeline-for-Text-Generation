@@ -111,7 +111,7 @@ Our approach balances generation speed, coherence, and flexibility, making it we
 
 ## Code
 
-- An overview of the actual code and detailed implementation (could be skipped for a short project overview, I am not sure)
+To Be Published
 
   
 ## Results
@@ -121,9 +121,4 @@ To Be Determined
 
 ## Future works
 
-- Future work
-- Discussion
-
 ## Credits
-
-- Credits
