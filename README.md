@@ -11,16 +11,15 @@
 	</div>
 </div>  
 
-[![Widget0](https://img.shields.io/badge/contributers-Just_me-blue)](link)
-[![Widget1](https://img.shields.io/badge/lead_developer-Me-blue)](link)
-[![Widget2](https://img.shields.io/badge/mentor-Myself-blue)](link)
-[![Widget3](https://img.shields.io/badge/version-0.1-blue)](link)
-[![Widget4](https://img.shields.io/badge/project_status-Active-blue)](link)
-[![Widget5](https://img.shields.io/badge/last_update-March_2025-blue)](link)
-[![Widget6](https://img.shields.io/badge/languages_used-Python-green)](link)
-[![Widget7](https://img.shields.io/badge/lines_of_code-0-green)](link)
-[![Widget8](https://img.shields.io/badge/build_size-0_kb-green)](link)
-[![Widget8](https://img.shields.io/badge/GitHub_Stars-⭐_1-gray)](link)
+[![Widget0](https://img.shields.io/badge/contributers-just_me-blue)](#)
+[![Widget1](https://img.shields.io/badge/lead_developer-me-blue)](#)
+[![Widget3](https://img.shields.io/badge/version-0.1-blue)](#)
+[![Widget4](https://img.shields.io/badge/project_status-Active-blue)](#)
+[![Widget5](https://img.shields.io/badge/last_update-March_2025-blue)](#)
+[![Widget6](https://img.shields.io/badge/languages_used-Python-green)](#)
+[![Widget7](https://img.shields.io/badge/lines_of_code-0-green)](#)
+[![Widget8](https://img.shields.io/badge/build_size-0_kb-green)](#)
+[![Widget8](https://img.shields.io/badge/GitHub_Stars-⭐_1-gray)](#)
 
 <div align="center">	
 	<hr>
