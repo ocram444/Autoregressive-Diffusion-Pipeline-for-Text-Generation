@@ -94,11 +94,19 @@
 
 ## Abstract
 
-- Autoregressive language models (ARLMs) have achieved remarkable progress in text generation, but they still often struggle with controllability and alignment. Recent work on diffusion-based models for language modeling has introduced new possibilities for iterative refinement and text editing. In this work, we propose a hybrid framework that integrates ARLMs with diffusion-based models to improve alignment and coherence. By leveraging diffusion’s ability to iteratively refine text, our approach enables post-hoc correction and controlled editing of autoregressively generated content using auxiliary prompts. We present the architecture, training strategies, and experimental results demonstrating improved alignment and adaptability in text generation.
+Autoregressive language models (ARLMs) have achieved remarkable progress in text generation, but they still often struggle with controllability and alignment. Recent work on diffusion-based models for language modeling has introduced new possibilities for iterative refinement and text editing. In this work, we propose a hybrid framework that integrates ARLMs with diffusion-based models to improve alignment and coherence. By leveraging diffusion’s ability to iteratively refine text, our approach enables post-hoc correction and controlled editing of autoregressively generated content using auxiliary prompts. We present the architecture, training strategies, and experimental results demonstrating improved alignment and adaptability in text generation.
 
 ## Approach
 
-- A more detailed description of the projectes approach
+Our proposed Pipeline framework integrates autoregressive language models (ARLMs) with diffusion-based language models (DLMs) to enhance text generation through iterative refinement. This hybrid approach leverages the strengths of both paradigms: ARLMs excel in fluent, high-quality text generation, while DLMs offer a powerful mechanism for controlled editing and correction.
+
+At a high level, Pipeline operates in two stages:
+
+Autoregressive Generation: An ARLM produces an initial text output based on a given prompt. This stage ensures efficiency and fluency in generating coherent sequences.
+Diffusion-based Refinement: A diffusion language model takes the ARLM-generated text and iteratively refines it using a secondary conditioning prompt. This allows for correction, alignment, and enhanced controllability while preserving fluency.
+To achieve seamless integration, we explore latent-space diffusion, where text representations are iteratively denoised rather than modifying raw tokens directly. This enables smooth, targeted refinements while maintaining contextual consistency. Additionally, we introduce alignment-aware conditioning, where the diffusion model receives both the original prompt and a secondary guidance prompt to enforce desired modifications without excessive drift from the ARLM’s intent.
+
+Our approach balances generation speed, coherence, and flexibility, making it well-suited for applications requiring controllable text generation, post-generation alignment, and iterative text editing. We demonstrate the effectiveness of Pipeline across tasks such as content refinement, bias mitigation, and controlled rewriting, hopefully showing significant improvements over standalone ARLMs.
 
 
 ## Code
@@ -108,11 +116,14 @@
   
 ## Results
 
-- Results
+To Be Determined
 
 
-## Future works / Credits
+## Future works
 
 - Future work
 - Discussion
+
+## Credits
+
 - Credits
