@@ -17,7 +17,7 @@
 [![Widget4](https://img.shields.io/badge/project_status-Active-blue)](#)
 [![Widget5](https://img.shields.io/badge/last_update-March_2025-blue)](#)
 [![Widget6](https://img.shields.io/badge/languages_used-Python-green)](#)
-[![Widget7](https://img.shields.io/badge/lines_of_code-0-green)](#)
+[![Widget7](https://img.shields.io/badge/lines_of_code-TBA-green)](#)
 [![Widget8](https://img.shields.io/badge/build_size-0_kb-green)](#)
 [![Widget8](https://img.shields.io/badge/GitHub_Stars-⭐_1-gray)](#)
 
