@@ -20,7 +20,7 @@
 [![Widget6](https://img.shields.io/badge/languages_used-Python-green)](link)
 [![Widget7](https://img.shields.io/badge/lines_of_code-0-green)](link)
 [![Widget8](https://img.shields.io/badge/build_size-0_kb-green)](link)
-[![Widget8](https://img.shields.io/badge/GitHub_Stars-⭐_0-gray)](link)
+[![Widget8](https://img.shields.io/badge/GitHub_Stars-⭐_1-gray)](link)
 
 <div align="center">	
 	<hr>
