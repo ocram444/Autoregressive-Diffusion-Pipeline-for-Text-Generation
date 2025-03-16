@@ -86,7 +86,7 @@
 <br>
 <br>
 <p align="center">
-	short project description.
+	Autoregressive & Diffusion LM is a hybrid framework that combines autoregressive language models (ARLMs) with diffusion-based language models (DLMs) for improved text alignment and refinement. By leveraging ARLMs for initial generation and DLMs for iterative correction, Pipeline enables more controlled, accurate, and adaptable text generation.
 </p>
 <br>
 <br>
