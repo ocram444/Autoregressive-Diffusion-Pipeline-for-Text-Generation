@@ -6,7 +6,7 @@
 		<h2>
 			<a href="https://link">Autoregressive-Diffusion-Pipeline-for-Text-Generation</a>
 			<br>
-			<sup>Sub Name / Sentence</sup>
+			<sup>Dual pipeline for improved text generation alignment</sup>
 		</h2>
 	</div>
 </div>  
